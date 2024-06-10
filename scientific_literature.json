@@ -1,0 +1,241 @@
+{
+    "криптография": [
+        {
+            "title": "Constrained Device Performance Benchmarking with the Implementation of Post-Quantum Cryptography",
+            "authors": [
+                "Gregory Fitzgibbon",
+                "Carlo Ottaviani"
+            ],
+            "journal": "Cryptography",
+            "year": 2024,
+            "url": "https://www.mdpi.com/2410-387X/8/2/21"
+        },
+        {
+            "title": "Special Issue on Cryptography and Information Security",
+            "authors": [
+                "Lip Yee Por",
+                "Jing Yang",
+                "Chin Soon Ku",
+                "Abdullah Ayub Khan"
+            ],
+            "journal": "Applied Sciences",
+            "year": 2023,
+            "url": "https://www.mdpi.com/2410-387X/8/2/21"
+        },
+        {
+            "title": "E-Coin-Based Priced Oblivious Transfer with a Fast Item Retrieval",
+            "authors": [
+                "Author Unknown"
+            ],
+            "journal": "Cryptography",
+            "year": 2024,
+            "url": "https://www.mdpi.com/2410-387X/8/2/21"
+        },
+        {
+            "title": "NLU-V: A Family of Instruction Set Extensions for Efficient Symmetric Cryptography on RISC-V",
+            "authors": [
+                "Author Unknown"
+            ],
+            "journal": "Cryptography",
+            "year": 2024,
+            "url": "https://www.mdpi.com/2410-387X/8/2/21"
+        },
+        {
+            "title": "Analysis of Biometric-Based Cryptographic Key Exchange Protocols\u2014BAKE and BRAKE",
+            "authors": [
+                "Author Unknown"
+            ],
+            "journal": "Cryptography",
+            "year": 2024,
+            "url": "https://www.mdpi.com/2410-387X/8/2/21"
+        }
+    ],
+    "электроника": [
+        {
+            "title": "Recent Advances in Electronic Devices for IoT Applications",
+            "authors": [
+                "Various Authors"
+            ],
+            "journal": "Electronics",
+            "year": 2023,
+            "url": "https://www.mdpi.com/journal/electronics"
+        },
+        {
+            "title": "Nanotechnology in Electronic Devices",
+            "authors": [
+                "Various Authors"
+            ],
+            "journal": "Nanomaterials",
+            "year": 2023,
+            "url": "https://www.mdpi.com/journal/nanomaterials"
+        },
+        {
+            "title": "Flexible Electronics: Materials and Applications",
+            "authors": [
+                "Various Authors"
+            ],
+            "journal": "Materials",
+            "year": 2023,
+            "url": "https://www.mdpi.com/journal/materials"
+        },
+        {
+            "title": "Advances in Semiconductor Device Physics",
+            "authors": [
+                "Various Authors"
+            ],
+            "journal": "Semiconductors",
+            "year": 2023,
+            "url": "https://www.mdpi.com/journal/semiconductors"
+        },
+        {
+            "title": "Emerging Trends in Power Electronics",
+            "authors": [
+                "Various Authors"
+            ],
+            "journal": "Power Electronics",
+            "year": 2023,
+            "url": "https://www.mdpi.com/journal/powerelectronics"
+        }
+    ],
+    "медицина": [
+        {
+            "title": "Advances in Medical Imaging Technologies",
+            "authors": [
+                "Various Authors"
+            ],
+            "journal": "Journal of Medical Imaging",
+            "year": 2023,
+            "url": "https://www.mdpi.com/journal/jmi"
+        },
+        {
+            "title": "Precision Medicine and Genomic Research",
+            "authors": [
+                "Various Authors"
+            ],
+            "journal": "Precision Medicine",
+            "year": 2023,
+            "url": "https://www.mdpi.com/journal/precisionmedicine"
+        },
+        {
+            "title": "Breakthroughs in Cancer Treatment",
+            "authors": [
+                "Various Authors"
+            ],
+            "journal": "Cancer Research",
+            "year": 2023,
+            "url": "https://www.mdpi.com/journal/cancerresearch"
+        },
+        {
+            "title": "Innovations in Surgical Techniques",
+            "authors": [
+                "Various Authors"
+            ],
+            "journal": "Surgical Innovation",
+            "year": 2023,
+            "url": "https://www.mdpi.com/journal/surgicalinnovation"
+        },
+        {
+            "title": "Developments in Cardiology",
+            "authors": [
+                "Various Authors"
+            ],
+            "journal": "Cardiology Today",
+            "year": 2023,
+            "url": "https://www.mdpi.com/journal/cardiologytoday"
+        }
+    ],
+    "космос": [
+        {
+            "title": "New Frontiers in Space Exploration",
+            "authors": [
+                "Various Authors"
+            ],
+            "journal": "Space Science Reviews",
+            "year": 2023,
+            "url": "https://www.springer.com/journal/11214"
+        },
+        {
+            "title": "Astrobiology and the Search for Extraterrestrial Life",
+            "authors": [
+                "Various Authors"
+            ],
+            "journal": "Astrobiology",
+            "year": 2023,
+            "url": "https://www.liebertpub.com/loi/ast"
+        },
+        {
+            "title": "Space Missions and Their Impact on Science",
+            "authors": [
+                "Various Authors"
+            ],
+            "journal": "Space Missions",
+            "year": 2023,
+            "url": "https://www.mdpi.com/journal/spacemissions"
+        },
+        {
+            "title": "Innovations in Space Technology",
+            "authors": [
+                "Various Authors"
+            ],
+            "journal": "Space Technology",
+            "year": 2023,
+            "url": "https://www.mdpi.com/journal/spacetechnology"
+        },
+        {
+            "title": "Human Spaceflight: Past, Present, and Future",
+            "authors": [
+                "Various Authors"
+            ],
+            "journal": "Human Spaceflight",
+            "year": 2023,
+            "url": "https://www.mdpi.com/journal/humanspaceflight"
+        }
+    ],
+    "христианство": [
+        {
+            "title": "The Role of Christianity in Modern Society",
+            "authors": [
+                "Various Authors"
+            ],
+            "journal": "Journal of Religion and Society",
+            "year": 2023,
+            "url": "https://moses.creighton.edu/JRS/"
+        },
+        {
+            "title": "Christian Ethics and Contemporary Moral Issues",
+            "authors": [
+                "Various Authors"
+            ],
+            "journal": "Journal of Christian Ethics",
+            "year": 2023,
+            "url": "https://www.christianethics.org/journal"
+        },
+        {
+            "title": "Christianity and Social Justice",
+            "authors": [
+                "Various Authors"
+            ],
+            "journal": "Social Justice Review",
+            "year": 2023,
+            "url": "https://www.mdpi.com/journal/socialjusticereview"
+        },
+        {
+            "title": "The Historical Jesus and Modern Scholarship",
+            "authors": [
+                "Various Authors"
+            ],
+            "journal": "Historical Jesus Studies",
+            "year": 2023,
+            "url": "https://www.mdpi.com/journal/historicaljesusstudies"
+        },
+        {
+            "title": "Christianity and the Environment",
+            "authors": [
+                "Various Authors"
+            ],
+            "journal": "Environmental Ethics",
+            "year": 2023,
+            "url": "https://www.mdpi.com/journal/environmentalethics"
+        }
+    ]
+}
